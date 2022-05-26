@@ -7,6 +7,8 @@
 ![php](https://user-images.githubusercontent.com/91075085/170430429-ca7edfe5-c2c0-4455-a3e2-b138d3d54f56.png)
 ![Online voting](https://user-images.githubusercontent.com/91075085/170430553-fabb55e1-bd34-4396-a2b3-ba2d304c745c.jpg)
 ![registration-icon-png-transparent-png](https://user-images.githubusercontent.com/91075085/170430712-2bfdbb22-187b-4169-94f7-535b7b4fd96e.png)
+![satishpic](https://user-images.githubusercontent.com/91075085/170430917-35c8ba5b-7444-47a0-8328-08aab4b00b17.jpg)
+
 
 
 
